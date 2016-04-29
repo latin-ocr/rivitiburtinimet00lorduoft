@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rivitiburtinimet00lorduoft_0047.png"; bbox 0 0 1747 2620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 343 1120 1404 1172">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 343 1120 1404 1172">
+     <span class='ocr_line' id='line_1_1' title="bbox 343 1120 1404 1172; baseline -0.002 -12"><span class='ocrx_word' id='word_1_1' title='bbox 343 1120 536 1161; x_wconf 82' lang='lat' dir='ltr'>Claudite</span> <span class='ocrx_word' id='word_1_2' title='bbox 559 1121 641 1160; x_wconf 86' lang='lat' dir='ltr'>iam</span> <span class='ocrx_word' id='word_1_3' title='bbox 664 1121 788 1169; x_wconf 79' lang='lat' dir='ltr'>rivos,</span> <span class='ocrx_word' id='word_1_4' title='bbox 814 1121 944 1172; x_wconf 82' lang='lat' dir='ltr'>pueri,</span> <span class='ocrx_word' id='word_1_5' title='bbox 968 1125 1034 1159; x_wconf 73' lang='lat' dir='ltr'>sat</span> <span class='ocrx_word' id='word_1_6' title='bbox 1054 1125 1176 1172; x_wconf 70' lang='lat' dir='ltr'>prata</span> <span class='ocrx_word' id='word_1_7' title='bbox 1196 1120 1404 1159; x_wconf 80' lang='lat' dir='ltr'>biberunt.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1259 1220 1587 1250">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1259 1220 1587 1250">
+     <span class='ocr_line' id='line_1_2' title="bbox 1259 1220 1587 1250; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 1259 1221 1374 1250; x_wconf 63' lang='lat' dir='ltr'><strong>vano.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1396 1221 1430 1249; x_wconf 70' lang='grc' dir='ltr'>Ε.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1450 1220 1506 1249; x_wconf 91' lang='lat'>111.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1526 1222 1587 1249; x_wconf 88' lang='lat'>111.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 825 1326 903 1357">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 825 1326 903 1357">
+     <span class='ocr_line' id='line_1_3' title="bbox 825 1326 903 1357; baseline -0.026 0"><span class='ocrx_word' id='word_1_12' title='bbox 825 1326 903 1357; x_wconf 73' lang='lat'>(⁴1)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
